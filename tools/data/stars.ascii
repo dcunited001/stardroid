@@ -17,10 +17,10 @@ source {
       declination: -16.71
     }
     color: 13618383
-    string_index: 2131558869
+    string_index: 2131558866
   }
-  name_ids: 2131558869
-  name_ids: 2131558535
+  name_ids: 2131558866
+  name_ids: 2131558533
 }
 source {
   search_location {
@@ -41,9 +41,9 @@ source {
       declination: -52.7
     }
     color: 13618383
-    string_index: 2131558450
+    string_index: 2131558448
   }
-  name_ids: 2131558450
+  name_ids: 2131558448
 }
 source {
   search_location {
@@ -64,9 +64,9 @@ source {
       declination: 19.19
     }
     color: 13618383
-    string_index: 2131558434
+    string_index: 2131558432
   }
-  name_ids: 2131558434
+  name_ids: 2131558432
 }
 source {
   search_location {
@@ -87,12 +87,12 @@ source {
       declination: -60.84
     }
     color: 13618383
-    string_index: 2131558819
+    string_index: 2131558816
   }
-  name_ids: 2131558819
-  name_ids: 2131558817
-  name_ids: 2131558417
-  name_ids: 2131558818
+  name_ids: 2131558816
+  name_ids: 2131558814
+  name_ids: 2131558415
+  name_ids: 2131558815
 }
 source {
   search_location {
@@ -113,9 +113,9 @@ source {
       declination: 38.78
     }
     color: 13618383
-    string_index: 2131558917
+    string_index: 2131558912
   }
-  name_ids: 2131558917
+  name_ids: 2131558912
 }
 source {
   search_location {
@@ -136,9 +136,9 @@ source {
       declination: -8.2
     }
     color: 13618383
-    string_index: 2131558816
+    string_index: 2131558813
   }
-  name_ids: 2131558816
+  name_ids: 2131558813
 }
 source {
   search_location {
@@ -159,9 +159,9 @@ source {
       declination: 5.23
     }
     color: 13618383
-    string_index: 2131558805
+    string_index: 2131558802
   }
-  name_ids: 2131558805
+  name_ids: 2131558802
 }
 source {
   search_location {
@@ -182,9 +182,9 @@ source {
       declination: 7.41
     }
     color: 13618383
-    string_index: 2131558439
+    string_index: 2131558437
   }
-  name_ids: 2131558439
+  name_ids: 2131558437
 }
 source {
   search_location {
@@ -228,9 +228,9 @@ source {
       declination: -60.37
     }
     color: 13618383
-    string_index: 2131558571
+    string_index: 2131558569
   }
-  name_ids: 2131558571
+  name_ids: 2131558569
 }
 source {
   search_location {
@@ -251,9 +251,9 @@ source {
       declination: 46.0
     }
     color: 13618383
-    string_index: 2131558451
+    string_index: 2131558449
   }
-  name_ids: 2131558451
+  name_ids: 2131558449
 }
 source {
   search_location {
@@ -274,9 +274,9 @@ source {
       declination: 8.87
     }
     color: 13618383
-    string_index: 2131558421
+    string_index: 2131558419
   }
-  name_ids: 2131558421
+  name_ids: 2131558419
 }
 source {
   search_location {
@@ -357,9 +357,9 @@ source {
       declination: -11.16
     }
     color: 13618383
-    string_index: 2131558877
+    string_index: 2131558874
   }
-  name_ids: 2131558877
+  name_ids: 2131558874
 }
 source {
   search_location {
@@ -380,9 +380,9 @@ source {
       declination: -26.43
     }
     color: 13618383
-    string_index: 2131558426
+    string_index: 2131558424
   }
-  name_ids: 2131558426
+  name_ids: 2131558424
 }
 source {
   search_location {
@@ -403,9 +403,9 @@ source {
       declination: 28.03
     }
     color: 13618383
-    string_index: 2131558801
+    string_index: 2131558798
   }
-  name_ids: 2131558801
+  name_ids: 2131558798
 }
 source {
   search_location {
@@ -426,9 +426,9 @@ source {
       declination: -29.62
     }
     color: 13618383
-    string_index: 2131558554
+    string_index: 2131558552
   }
-  name_ids: 2131558554
+  name_ids: 2131558552
 }
 source {
   search_location {
@@ -449,9 +449,9 @@ source {
       declination: 45.28
     }
     color: 13618383
-    string_index: 2131558503
+    string_index: 2131558501
   }
-  name_ids: 2131558503
+  name_ids: 2131558501
 }
 source {
   search_location {
@@ -500,9 +500,9 @@ source {
       declination: 11.97
     }
     color: 13618383
-    string_index: 2131558813
+    string_index: 2131558810
   }
-  name_ids: 2131558813
+  name_ids: 2131558810
 }
 source {
   search_location {
@@ -560,9 +560,9 @@ source {
       declination: -37.1
     }
     color: 13618383
-    string_index: 2131558858
+    string_index: 2131558855
   }
-  name_ids: 2131558858
+  name_ids: 2131558855
 }
 source {
   search_location {
@@ -597,9 +597,9 @@ source {
       declination: 28.61
     }
     color: 13618383
-    string_index: 2131558415
+    string_index: 2131558413
   }
-  name_ids: 2131558415
+  name_ids: 2131558413
 }
 source {
   search_location {
@@ -634,9 +634,9 @@ source {
       declination: -1.2
     }
     color: 13618383
-    string_index: 2131558416
+    string_index: 2131558414
   }
-  name_ids: 2131558416
+  name_ids: 2131558414
 }
 source {
   search_location {
@@ -657,9 +657,9 @@ source {
       declination: -46.96
     }
     color: 13618383
-    string_index: 2131558414
+    string_index: 2131558412
   }
-  name_ids: 2131558414
+  name_ids: 2131558412
 }
 source {
   search_location {
@@ -731,9 +731,9 @@ source {
       declination: 49.86
     }
     color: 13618383
-    string_index: 2131558755
+    string_index: 2131558752
   }
-  name_ids: 2131558755
+  name_ids: 2131558752
 }
 source {
   search_location {
@@ -754,9 +754,9 @@ source {
       declination: -34.38
     }
     color: 13618383
-    string_index: 2131558589
+    string_index: 2131558586
   }
-  name_ids: 2131558589
+  name_ids: 2131558586
 }
 source {
   search_location {
@@ -777,9 +777,9 @@ source {
       declination: 61.75
     }
     color: 13618383
-    string_index: 2131558538
+    string_index: 2131558536
   }
-  name_ids: 2131558538
+  name_ids: 2131558536
 }
 source {
   search_location {
@@ -930,9 +930,9 @@ source {
       declination: 31.89
     }
     color: 13618383
-    string_index: 2131558457
+    string_index: 2131558455
   }
-  name_ids: 2131558457
+  name_ids: 2131558455
 }
 source {
   search_location {
@@ -953,11 +953,11 @@ source {
       declination: 89.26
     }
     color: 13618383
-    string_index: 2131558799
+    string_index: 2131558796
   }
-  name_ids: 2131558799
-  name_ids: 2131558773
-  name_ids: 2131558800
+  name_ids: 2131558796
+  name_ids: 2131558770
+  name_ids: 2131558797
 }
 source {
   search_location {
@@ -992,9 +992,9 @@ source {
       declination: -8.66
     }
     color: 13618383
-    string_index: 2131558418
+    string_index: 2131558416
   }
-  name_ids: 2131558418
+  name_ids: 2131558416
 }
 source {
   search_location {
@@ -1015,9 +1015,9 @@ source {
       declination: 23.46
     }
     color: 13618383
-    string_index: 2131558572
+    string_index: 2131558570
   }
-  name_ids: 2131558572
+  name_ids: 2131558570
 }
 source {
   search_location {
@@ -1075,9 +1075,9 @@ source {
       declination: -17.99
     }
     color: 13618383
-    string_index: 2131558528
+    string_index: 2131558526
   }
-  name_ids: 2131558528
+  name_ids: 2131558526
 }
 source {
   search_location {
@@ -1098,9 +1098,9 @@ source {
       declination: -26.3
     }
     color: 13618383
-    string_index: 2131558775
+    string_index: 2131558772
   }
-  name_ids: 2131558775
+  name_ids: 2131558772
 }
 source {
   search_location {
@@ -1121,9 +1121,9 @@ source {
       declination: 35.62
     }
     color: 13618383
-    string_index: 2131558754
+    string_index: 2131558751
   }
-  name_ids: 2131558754
+  name_ids: 2131558751
 }
 source {
   search_location {
@@ -1158,9 +1158,9 @@ source {
       declination: 29.09
     }
     color: 13618383
-    string_index: 2131558420
+    string_index: 2131558418
   }
-  name_ids: 2131558420
+  name_ids: 2131558418
 }
 source {
   search_location {
@@ -1195,9 +1195,9 @@ source {
       declination: -9.67
     }
     color: 13618383
-    string_index: 2131558825
+    string_index: 2131558822
   }
-  name_ids: 2131558825
+  name_ids: 2131558822
 }
 source {
   search_location {
@@ -1218,9 +1218,9 @@ source {
       declination: 74.16
     }
     color: 13618383
-    string_index: 2131558591
+    string_index: 2131558588
   }
-  name_ids: 2131558591
+  name_ids: 2131558588
 }
 source {
   search_location {
@@ -1241,9 +1241,9 @@ source {
       declination: 12.56
     }
     color: 13618383
-    string_index: 2131558812
+    string_index: 2131558809
   }
-  name_ids: 2131558812
+  name_ids: 2131558809
 }
 source {
   search_location {
@@ -1301,9 +1301,9 @@ source {
       declination: 14.57
     }
     color: 13618383
-    string_index: 2131558504
+    string_index: 2131558502
   }
-  name_ids: 2131558504
+  name_ids: 2131558502
 }
 source {
   search_location {
@@ -1380,9 +1380,9 @@ source {
       declination: 26.71
     }
     color: 13618383
-    string_index: 2131558419
+    string_index: 2131558417
   }
-  name_ids: 2131558419
+  name_ids: 2131558417
 }
 source {
   search_location {
@@ -1431,9 +1431,9 @@ source {
       declination: 51.49
     }
     color: 13618383
-    string_index: 2131558551
+    string_index: 2131558549
   }
-  name_ids: 2131558551
+  name_ids: 2131558549
 }
 source {
   search_location {
@@ -1454,9 +1454,9 @@ source {
       declination: 56.54
     }
     color: 13618383
-    string_index: 2131558859
+    string_index: 2131558856
   }
-  name_ids: 2131558859
+  name_ids: 2131558856
 }
 source {
   search_location {
@@ -1505,9 +1505,9 @@ source {
       declination: 59.15
     }
     color: 13618383
-    string_index: 2131558452
+    string_index: 2131558450
   }
-  name_ids: 2131558452
+  name_ids: 2131558450
 }
 source {
   search_location {
@@ -1598,9 +1598,9 @@ source {
       declination: 27.07
     }
     color: 13618383
-    string_index: 2131558586
+    string_index: 2131558583
   }
-  name_ids: 2131558586
+  name_ids: 2131558583
 }
 source {
   search_location {
@@ -1621,9 +1621,9 @@ source {
       declination: 56.38
     }
     color: 13618383
-    string_index: 2131558751
+    string_index: 2131558748
   }
-  name_ids: 2131558751
+  name_ids: 2131558748
 }
 source {
   search_location {
@@ -1644,9 +1644,9 @@ source {
       declination: 9.88
     }
     color: 13618383
-    string_index: 2131558548
+    string_index: 2131558546
   }
-  name_ids: 2131558548
+  name_ids: 2131558546
 }
 source {
   search_location {
@@ -1681,9 +1681,9 @@ source {
       declination: -42.31
     }
     color: 13618383
-    string_index: 2131558425
+    string_index: 2131558423
   }
-  name_ids: 2131558425
+  name_ids: 2131558423
 }
 source {
   search_location {
@@ -1704,9 +1704,9 @@ source {
       declination: 53.69
     }
     color: 13618383
-    string_index: 2131558788
+    string_index: 2131558785
   }
-  name_ids: 2131558788
+  name_ids: 2131558785
 }
 source {
   search_location {
@@ -1750,9 +1750,9 @@ source {
       declination: 28.08
     }
     color: 13618383
-    string_index: 2131558827
+    string_index: 2131558824
   }
-  name_ids: 2131558827
+  name_ids: 2131558824
 }
 source {
   search_location {
@@ -1815,9 +1815,9 @@ source {
       declination: 15.21
     }
     color: 13618383
-    string_index: 2131558736
+    string_index: 2131558733
   }
-  name_ids: 2131558736
+  name_ids: 2131558733
 }
 source {
   search_location {
@@ -1852,9 +1852,9 @@ source {
       declination: 4.09
     }
     color: 13618383
-    string_index: 2131558738
+    string_index: 2131558735
   }
-  name_ids: 2131558738
+  name_ids: 2131558735
 }
 source {
   search_location {
@@ -1917,9 +1917,9 @@ source {
       declination: -17.82
     }
     color: 13618383
-    string_index: 2131558436
+    string_index: 2131558434
   }
-  name_ids: 2131558436
+  name_ids: 2131558434
 }
 source {
   search_location {
@@ -2010,9 +2010,9 @@ source {
       declination: 6.43
     }
     color: 13618383
-    string_index: 2131558906
+    string_index: 2131558903
   }
-  name_ids: 2131558906
+  name_ids: 2131558903
 }
 source {
   search_location {
@@ -2546,9 +2546,9 @@ source {
       declination: 10.96
     }
     color: 13618383
-    string_index: 2131558920
+    string_index: 2131558915
   }
-  name_ids: 2131558920
+  name_ids: 2131558915
 }
 source {
   search_location {
@@ -15850,9 +15850,9 @@ source {
       declination: 39.67
     }
     color: 13618383
-    string_index: 2131558539
+    string_index: 2131558537
   }
-  name_ids: 2131558539
+  name_ids: 2131558537
 }
 source {
   search_location {
